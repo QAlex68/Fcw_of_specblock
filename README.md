@@ -3,9 +3,7 @@
 
 ## Урок 2. Итоговая контрольная работа
 
-[ПЕРЕЙТИ К ЗАДАНИЮ](https://github.com/Terekhov-A-S/Final_control_work_on_the_specialization_block#задание)
-
-[ПЕРЕЙТИ К РЕШЕНИЮ](https://github.com/Terekhov-A-S/Final_control_work_on_the_specialization_block#решение)
+ [-= Перейти к коду =-](https://github.com/QAlex68/Fcw_of_specblock/tree/main/python)
 
 **Информация о проекте**
 
