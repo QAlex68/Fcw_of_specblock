@@ -3,7 +3,7 @@
 
 ## Урок 2. Итоговая контрольная работа
 
- [-= Перейти к коду =-](https://github.com/QAlex68/Fcw_of_specblock/tree/main/python)
+ [< Перейти к коду >](https://github.com/QAlex68/Fcw_of_specblock/tree/main/python)
 
 **Информация о проекте**
 
@@ -410,6 +410,7 @@ LEFT JOIN animals ON animals.id=pack_animals.animal_type_id;
         
   9.3. Обучение новым командам
         - Добавить возможность обучать животных новым командам.
+
   9.4 Вывести список животных по дате рождения
 
   9.5. Навигация по меню
@@ -419,4 +420,4 @@ LEFT JOIN animals ON animals.id=pack_animals.animal_type_id;
 Создать механизм, который позволяет вывести на экран общее количество созданных животных любого типа (Как домашних, так и вьючных), то есть при создании каждого нового животного счетчик увеличивается на “1”. 
 
 
-11. , 8. , 9., 10. - [-= Перейти к коду =-](https://github.com/QAlex68/Fcw_of_specblock/tree/main/python)
+11. , 8. , 9., 10. - [< Перейти к коду >](https://github.com/QAlex68/Fcw_of_specblock/tree/main/python)
